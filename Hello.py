@@ -1,1 +1,1 @@
-print("hello from python\n welcome to devops")
+print("hello from python")
